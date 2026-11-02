@@ -1,7 +1,0 @@
-{
-  "name": "qiuzhang-tool",
-  "version": "1.0.0",
-  "private": true,
-  "description": "数字酋长 eBay 批量复制刊登自动化工具",
-  "type": "module"
-}
